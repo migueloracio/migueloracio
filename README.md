@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é Miguel Oracio
+- 👀 Tenho interesse em programação Web com objetivo de me especializar em JavaScript
+- 🌱 Estou estudando JavaScript e alguns Frameworks
+- 📫 Buscando network manda uma mensagem no Instagram ou Linkedin! (@migueloracio)
